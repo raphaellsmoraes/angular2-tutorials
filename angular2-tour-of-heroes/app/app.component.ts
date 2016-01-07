@@ -33,7 +33,7 @@ import {HeroService} from './hero.service';
             cursor: pointer;
             position: relative;
             left: 0;
-            background-color: #EEE;
+            background-color: #E14;
             margin: .5em;
             padding: .3em 0em;
             height: 1.6em;
